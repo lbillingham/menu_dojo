@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Egg and bacon",
+        "price": "0.50"
+    },
+    {
+        "name": "Egg, sausage and bacon",
+        "price": "0.50"
+    },
+    {
+        "name": "Egg and Spam",
+        "price": "1.50"
+    },
+    {
+        "name": "Egg, bacon and Spam",
+        "price": "1.50"
+    },
+    {
+        "name": "Egg, bacon, sausage and Spam",
+        "price": "1.50"
+    },
+    {
+        "name": "Spam, bacon, sausage and Spam",
+        "price": "2.50"
+    },
+    {
+        "name": "Spam, egg, Spam, Spam, bacon and Spam",
+        "price": "4.50"
+    },
+    {
+        "name": "Egg, sausage and bacon",
+        "price": "0.50"
+    },
+    {
+        "name": "Spam, Spam, Spam, egg and Spam",
+        "price": "4.50"
+    },
+    {
+        "name": "Spam, Spam, Spam, Spam, Spam, Spam, baked beans, Spam, Spam, Spam and Spam",
+        "price": "10.50"
+    },
+    {
+        "name": "Lobster Thermidor aux crevettes with a Mornay sauce, garnished with truffle pâté, brandy and a fried egg on top, and Spam.",
+        "price": "0.50"
+    }
+]
+    
+
+
